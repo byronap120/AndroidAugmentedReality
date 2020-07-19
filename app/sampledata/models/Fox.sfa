@@ -1,8 +1,8 @@
 {
    bound_relative_root: {
-      x: 0,
+      x: 0.5,
       y: 0,
-      z: 0,
+      z: 0.5,
    },
    materials: [
       {
@@ -20,10 +20,10 @@
                ],
             },
             {
-               metallic: 0,
+               metallic: 1,
             },
             {
-               roughness: 1,
+               roughness: 0,
             },
             {
                opacity: null,

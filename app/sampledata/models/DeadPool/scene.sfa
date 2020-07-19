@@ -1,0 +1,105 @@
+{
+   bound_relative_root: {
+      x: 0.5,
+      y: 0,
+      z: 0.5,
+   },
+   materials: [
+      {
+         name: "40_mesh0_0.1_16_16",
+         parameters: [
+            {
+               baseColorFactor: [
+                  1,
+                  1,
+                  1,
+                  1,
+               ],
+            },
+            {
+               baseColor: "40_mesh0_0.1_16_16_baseColor",
+            },
+            {
+               diffuseColorFactor: null,
+            },
+            {
+               diffuseColor: null,
+            },
+            {
+               normal: "40_mesh0_0.1_16_16_normal",
+            },
+            {
+               metallicFactor: 0,
+            },
+            {
+               roughnessFactor: 0.82394199999999995,
+            },
+            {
+               specularFactor: null,
+            },
+            {
+               glossinessFactor: null,
+            },
+            {
+               specularGlossiness: null,
+            },
+            {
+               specularGlossinessCalculation: null,
+            },
+            {
+               metallicRoughness: null,
+            },
+            {
+               occlusion: null,
+            },
+            {
+               emissiveFactor: [
+                  0,
+                  0,
+                  0,
+                  1,
+               ],
+            },
+            {
+               emissive: null,
+            },
+            {
+               reflectance: null,
+            },
+            {
+               opacity: null,
+            },
+         ],
+         source: "build/sceneform_sdk/default_materials/gltf_material.sfm",
+      },
+   ],
+   model: {
+      attributes: [
+         "Position",
+         "Color",
+         "TexCoord",
+         "Orientation",
+      ],
+      collision: {},
+      file: "sampledata/models/DeadPool/scene.gltf",
+      name: "scene",
+      recenter: "root",
+      scale: 0.01,
+   },
+   samplers: [
+      {
+         file: "sampledata/models/DeadPool\\textures/40_mesh0_0.1_16_16_baseColor.png",
+         name: "40_mesh0_0.1_16_16_baseColor",
+         pipeline_name: "textures/40_mesh0_0.1_16_16_baseColor.png",
+      },
+      {
+         file: "sampledata/models/DeadPool\\textures/40_mesh0_0.1_16_16_normal.png",
+         name: "40_mesh0_0.1_16_16_normal",
+         params: {
+            usage_type: "Normal",
+         },
+         pipeline_name: "textures/40_mesh0_0.1_16_16_normal.png",
+      },
+   ],
+   version: "0.52:1",
+}
