@@ -2,8 +2,7 @@
 
 This Android app is a personal demo experimenting with Sceneform in ARCore from Google.
 
-<img src='https://i.imgur.com/OjGOmjU.gif' title='AndroidAR' width='' alt='AndroidAR1' />
-<img src='https://i.imgur.com/SCUugFK.gif' title='Universal Clock' width='' alt='Universal Clock' />
+<img src='https://i.imgur.com/lvkssdV.gif' title='AndroidAR' width='' alt='AndroidAR1' />
 <img src='https://i.imgur.com/1dEQecr.png?1' title='AndroidAR' width='' alt='AndroidAR2' />
 <img src='https://i.imgur.com/egPHQzC.png?1' title='AndroidAR' width='' alt='AndroidAR3' />
 
