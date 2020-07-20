@@ -1,6 +1,6 @@
 # Android AR Demo
 
-This Android app is a personal demo experimenting with Sceneform in ARCore from Google.
+This Android app is a personal demo experimenting with Sceneform and ARCore from Google.
 
 <img src='https://i.imgur.com/lvkssdV.gif' title='AndroidAR' width='' alt='AndroidAR1' />   <img src='https://i.imgur.com/1dEQecr.png?1' title='AndroidAR' width='' alt='AndroidAR2' />   <img src='https://i.imgur.com/egPHQzC.png?1' title='AndroidAR' width='' alt='AndroidAR3' />
 
@@ -16,4 +16,4 @@ This Android app is a personal demo experimenting with Sceneform in ARCore from 
 
 ## License
 
-you can check license details [here]https://github.com/byronap120/AndroidAugmentedReality/blob/master/LICENSE) 
+you can check license details [here](https://github.com/byronap120/AndroidAugmentedReality/blob/master/LICENSE) 
